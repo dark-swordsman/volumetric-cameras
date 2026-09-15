@@ -1,5 +1,19 @@
 # TODO
 
+## 0. Go setup
+
+- [ ] Install Go and confirm it works (`go version`)
+- [ ] Set up editor support (Go extension for VS Code, `gopls`)
+- [ ] Initialize a module in this repo (`go mod init`)
+- [ ] Write and run a hello world
+- [ ] Decide on a basic project layout (e.g. `cmd/` for programs, packages for math/camera code)
+- [ ] Write a small package with a function and a test, and run `go test`
+- [ ] Add `gonum` as a dependency and do a simple matrix multiply
+- [ ] Read a JSON file into a struct
+- [ ] Load a PNG and read a pixel's color
+- [ ] Write a PNG (e.g. draw a few dots on an image)
+- [ ] Write a tiny `.ply` point cloud file and open it in Blender or MeshLab
+
 ## 1. Getting camera data
 
 - [ ] Build a simple static test scene in Blender (a room, a few objects)
