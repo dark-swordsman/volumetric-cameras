@@ -2,10 +2,10 @@
 
 ## 0. Go setup
 
-- [ ] Install Go and confirm it works (`go version`)
-- [ ] Set up editor support (Go extension for VS Code, `gopls`)
-- [ ] Initialize a module in this repo (`go mod init`)
-- [ ] Write and run a hello world
+- [x] Install Go and confirm it works (`go version`)
+- [x] Set up editor support (Go extension for VS Code, `gopls`)
+- [x] Initialize a module in this repo (`go mod init`)
+- [x] Write and run a hello world
 - [ ] Decide on a basic project layout (e.g. `cmd/` for programs, packages for math/camera code)
 - [ ] Write a small package with a function and a test, and run `go test`
 - [ ] Add `gonum` as a dependency and do a simple matrix multiply
