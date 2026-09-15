@@ -6,8 +6,8 @@
 - [x] Set up editor support (Go extension for VS Code, `gopls`)
 - [x] Initialize a module in this repo (`go mod init`)
 - [x] Write and run a hello world
-- [ ] Decide on a basic project layout (e.g. `cmd/` for programs, packages for math/camera code)
-- [ ] Write a small package with a function and a test, and run `go test`
+- [x] Decide on a basic project layout (e.g. `cmd/` for programs, packages for math/camera code)
+- [x] Write a small package with a function and a test, and run `go test`
 - [ ] Add `gonum` as a dependency and do a simple matrix multiply
 - [ ] Read a JSON file into a struct
 - [ ] Load a PNG and read a pixel's color
